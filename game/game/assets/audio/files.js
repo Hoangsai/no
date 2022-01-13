@@ -1,0 +1,22 @@
+export default [
+	'card_swish',
+	'cards_place',
+	'chime_lite_ding_duo',
+	'click_04',
+	'click_07',
+	'music_vibelong_confirm',
+	'pad_confirm',
+	'pop_char',
+	'pop_clicklo',
+	'pop_down',
+	'pop_drip_hi',
+	'pop_drip_mid',
+	'pop_drum_up',
+	'pop_echo',
+	'pop_note',
+	'pop_pwip',
+	'pop_zap_bass',
+	'slide_left',
+	'slide_right',
+	'slide_up'
+]

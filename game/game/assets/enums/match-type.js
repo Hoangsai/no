@@ -1,0 +1,5 @@
+module.exports = {
+	DEFAULT: 'DEFAULT',
+	MATCHMAKE: 'MATCHMAKE',
+	COMPUTER: 'COMPUTER'
+}
